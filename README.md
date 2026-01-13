@@ -1,91 +1,82 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=800&color=00FFAA&center=true&vCenter=true&width=850&lines=Hey!+I'm+Raman+Pratap;Full-Stack+Java+%26+React+Developer;Spring+Boot+•+Microservices+•+AI;Crafting+Scalable+Systems+%26+Magical+Experiences;Let's+Build+Something+Legendary!+⚡🔥" alt="Typing SVG" />
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=RAMAN+PRATAP&fontSize=65&animation=pulse&fontColor=fff&desc=Full-Stack+%7C+AI+Explorer&descAlign=62&descAlignY=60"
+    >
+    <img 
+      src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=RAMAN+PRATAP&fontSize=65&animation=pulse&fontColor=000&desc=Full-Stack+%7C+AI+Explorer&descAlign=62&descAlignY=60" 
+      alt="Header" 
+    >
+  </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=RAMAN+PRATAP&fontSize=58&fontColor=fff&fontAlignY=38&animation=twinkling&desc=Full-Stack+%7C+AI+Enthusiast&descAlign=62&descAlignY=58&theme=dark">
-    <img alt="header" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=RAMAN+PRATAP&fontSize=58&fontColor=000&fontAlignY=38&animation=twinkling&desc=Full-Stack+%7C+AI+Enthusiast&descAlign=62&descAlignY=58">
-  </picture>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00FFAA&center=true&width=700&lines=Hey!+I'm+Raman+Pratap;Full-Stack+Java+%26+React;Spring+Boot+%E2%80%A2+Microservices+%E2%80%A2+AI;Building+Scalable+%26+Magical+Systems+⚡" 
+    alt="Intro" 
+  />
 </div>
 
 <br>
 
 <p align="center">
-  <strong>Full-Stack Engineer</strong> passionate about building <strong>performant</strong>, <strong>scalable</strong> and <strong>beautiful</strong> applications<br>
-  <strong>Java • Spring Boot • Microservices</strong>  •  <strong>React • TypeScript • Next.js</strong><br>
-  Obsessed with <strong>Clean Architecture</strong>, <strong>Performance</strong>, and <strong>AI Integration</strong> ✨
+  Full-Stack Engineer crafting <strong>performant</strong> & <strong>scalable</strong> applications<br>
+  <strong>Java • Spring Boot • Microservices</strong>  •  <strong>React • TypeScript</strong><br>
+  Passionate about Clean Architecture, Performance & AI ✨
 </p>
 
 <div align="center">
-  <br>
-  
   <a href="https://linkedin.com/in/ramanpratap" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
   </a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://x.com/ramanpratapp" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="36" alt="X"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="32"/>
   </a>
   <span>&nbsp;&nbsp;</span>
-  <a href="mailto:your.email@gmail.com?subject=Hey%20Raman!">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Gmail"/>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
   </a>
 </div>
 
-<br><br>
+<br>
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
+<h2 align="center">🛠 Tech Stack</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,typescript,javascript,nextjs,nodejs,postgres,mysql,redis,docker,kubernetes,git,github,postman,vscode,idea&perline=6&theme=dark" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,typescript,nextjs,postgres,redis,docker,git,github,vscode&perline=6&theme=dark" alt="stack"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ramanpratappilai&theme=neon-punk&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="streak" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramanpratappilai&theme=neon&hide_border=true" alt="profile summary"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ramanpratappilai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramanpratappilai&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="langs"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramanpratappilai&theme=neon&hide_border=true" />
-  <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramanpratappilai&theme=neon&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ramanpratappilai&theme=radical&no-frame=true&margin-w=15" alt="trophies"/>
 </div>
 
 <br>
 
-<h2 align="center">🔥 Currently Exploring & Leveling Up</h2>
-
+<h3 align="center">🔥 Currently Leveling Up</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/LLMs_&_Generative_AI-FF3366?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Modulith-9B59B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/High_Performance_Java-00BFFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clean_Architecture_&_DDD-2ECC71?style=for-the-badge" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00FFAA&center=true&vCenter=true&width=850&lines=Keep+Coding...+The+Future+is+Open+Source;Let's+Create+Something+Insane+Together!+💜🚀" alt="footer typing"/>
+  <img src="https://img.shields.io/badge/LLMs_&_AI-FF3366?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-2ECC71?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Performance-00BFFF?style=for-the-badge"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ramanpratappilai.ramanpratappilai&right_color=00FFAA&left_text=Profile+Views" alt="visitors"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00FFAA&center=true&width=600&lines=Keep+Coding...+Let's+Build+Something+Epic!+💜🚀" alt="footer"/>
 </div>
 
-<br>
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/snk/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/snk/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/platane/platane/snk/github-contribution-grid-snake.svg" width="80%"/>
-  </picture>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ramanpratappilai.ramanpratappilai&right_color=00FFAA" alt="visitors"/>
 </div>
