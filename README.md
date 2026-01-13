@@ -2,7 +2,7 @@
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=RAMAN+PRATAP&fontSize=65&animation=pulse&fontColor=fff&desc=Full-Stack+%7C+AI+Explorer&descAlign=62&descAlignY=60"
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=RAMAN+PRATAP&fontSize=63&animation=pulse&fontColor=fff&desc=Full-Stack+%7C+AI+Explorer&descAlign=62&descAlignY=60"
     >
     <img 
       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=RAMAN+PRATAP&fontSize=65&animation=pulse&fontColor=000&desc=Full-Stack+%7C+AI+Explorer&descAlign=62&descAlignY=60" 
