@@ -11,9 +11,11 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramanpratappilai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Raman's GitHub stats" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramanpratappilai&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ramanpratappilai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Raman's GitHub Stats" width="48%" />
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramanpratappilai&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
