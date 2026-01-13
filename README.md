@@ -12,7 +12,7 @@
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ramanpratappilai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Raman's GitHub Stats" width="48%" />
+ 
   
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramanpratappilai&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
@@ -38,10 +38,6 @@
 </p>
 
 <h3 align="center">📈 GitHub Highlights</h3>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramanpratappilai&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
-</div>
 
 <p align="center">
   <em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em>
